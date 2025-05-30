@@ -17,6 +17,9 @@ This project provides a comprehensive framework for analyzing and comparing diff
   - Graph-based analysis (graph properties & similarity)
   - Vulnerability comparison between the tools
 
+## Tested Environment
+This project was developed and tested on Ubuntu 24.04.2 LTS x86_64.
+
 ## Prerequisites
 
 - Python 3.x
@@ -27,6 +30,7 @@ This project provides a comprehensive framework for analyzing and comparing diff
   - Syft
   - CDXgen
   - Trivy
+- A `repos.txt` file containing GitHub repository URLs (one per line) that will be cloned and analyzed
 
 ## Installation
 
@@ -63,6 +67,13 @@ The project provides a command-line interface with several analysis options:
    - Mass clone repositories
    - Run Poetry Check
    - Generate SBOMs for cloned repositories
+
+   Before running the analysis, ensure you have a `repos.txt` file in the project root with GitHub repository URLs. Example format:
+   ```
+   https://github.com/username/repo1.git
+   https://github.com/username/repo2.git
+   https://github.com/username/repo3.git
+   ```
 
 2. **Dependency Track Analysis**
    - Run Dependency Track analysis on generated SBOMs
