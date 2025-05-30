@@ -1,8 +1,0 @@
-
-https://github.com/clearpathrobotics/nix-ros-base
-https://github.com/Arena-Rosnav/rosnav-rl
-https://github.com/hexatester/rosrestpy
-https://github.com/tier4/autoware_perception_evaluation
-https://github.com/Natsu-Akatsuki/PointCloud-PyUsage
-https://github.com/SSL-Roots/consai_ros2
-https://github.com/ignc-research/arena-marl
