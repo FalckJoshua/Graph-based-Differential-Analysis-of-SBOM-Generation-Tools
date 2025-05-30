@@ -1,6 +1,18 @@
 # Graph-based Differential Analysis of SBOM Generation Tools
 
+[![AI](https://img.shields.io/badge/AI-Assisted%20Development-blue)](https://github.com/topics/ai)
+[![SBOM](https://img.shields.io/badge/SBOM-Security-orange)](https://github.com/topics/sbom)
+
 This project provides a comprehensive framework for analyzing and comparing different Software Bill of Materials (SBOM) generation tools. It helps in understanding the differences and similarities between various SBOM generators and their outputs.
+
+## Topics
+- #graph-analysis
+- #sbom
+- #security
+- #dependency-analysis
+- #vulnerability-analysis
+- #software-security
+- #ai-assisted-development
 
 ## Features
 
