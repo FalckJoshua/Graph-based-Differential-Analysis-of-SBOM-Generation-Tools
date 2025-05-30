@@ -5,15 +5,6 @@
 
 This project provides a comprehensive framework for analyzing and comparing different Software Bill of Materials (SBOM) generation tools. It helps in understanding the differences and similarities between various SBOM generators and their outputs.
 
-## Topics
-- #graph-analysis
-- #sbom
-- #security
-- #dependency-analysis
-- #vulnerability-analysis
-- #software-security
-- #ai-assisted-development
-
 ## Features
 
 - **Required Tools**
